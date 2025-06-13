@@ -24,5 +24,5 @@ This project implements a UART (Universal Asynchronous Receiver/Transmitter) mod
 - uart_txd is stuck at 0 for many cycles.
 
 ## Output
-RTL Schematic:
-Output Waveform:
+RTL Schematic: https://github.com/ananyav-26/UART-TX-RX/blob/main/images/uart_rtl.png
+Output Waveform: https://github.com/ananyav-26/UART-TX-RX/blob/main/images/uart_waveform.png
